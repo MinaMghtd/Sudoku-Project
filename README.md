@@ -53,9 +53,5 @@ Some numbers are already placed in the grid, and you must fill in the rest while
     ![image](https://github.com/user-attachments/assets/47387dff-6b0b-468a-8c82-ae1e16152b86)
 
     ![image](https://github.com/user-attachments/assets/e8ebd6ca-5985-4466-8ce0-eaa90b594063)
-   
-    ![image](https://github.com/user-attachments/assets/7d148b9d-cb9c-4319-8c0f-d153a31815f2)
-
-
 
 7.Be careful! If you enter the wrong answer three times, you lose! 🚨
