@@ -35,24 +35,27 @@ Some numbers are already placed in the grid, and you must fill in the rest while
  ```
 3. After running the game, create an account by entering a username and password.
 
-    ![image](https://github.com/user-attachments/assets/6cadd597-16de-4112-aee6-0f9f0b9c0108)
+    ![image](https://github.com/user-attachments/assets/e4e218e9-d6ad-49da-a434-eb0bd6c34811)
 
 
 4. If you already have an account, you can **log in**.
 
-    ![image](https://github.com/user-attachments/assets/b31a0e84-8815-4df9-8022-3381d042b73c)
+    ![image](https://github.com/user-attachments/assets/1e4020c8-bd48-4266-bc8f-b30d0252cf65)
 
 
 5. Once logged in, you will see the main menu, where you can navigate different options.
 
-    ![image](https://github.com/user-attachments/assets/fb9c5b8d-4408-41bc-9b02-034ea0b54e5e)
+    ![image](https://github.com/user-attachments/assets/a76b0771-f749-4ed3-8ea2-d1422f23232d)
+
   
 6. To start a new game, choose your difficulty level, which determines the time limit.
 
-    ![image](https://github.com/user-attachments/assets/12b3abcc-1185-494f-84ea-2bc66306e0cb)
- 
-   ![image](https://github.com/user-attachments/assets/94990b07-f9b4-4c17-8b8f-77ef2130c302)
+    ![image](https://github.com/user-attachments/assets/47387dff-6b0b-468a-8c82-ae1e16152b86)
+
+    ![image](https://github.com/user-attachments/assets/e8ebd6ca-5985-4466-8ce0-eaa90b594063)
    
-   ![image](https://github.com/user-attachments/assets/1cec27e6-278b-4c0b-9cba-fbef7c3d3e4d)
+    ![image](https://github.com/user-attachments/assets/7d148b9d-cb9c-4319-8c0f-d153a31815f2)
+
+
 
 7.Be careful! If you enter the wrong answer three times, you lose! 🚨
